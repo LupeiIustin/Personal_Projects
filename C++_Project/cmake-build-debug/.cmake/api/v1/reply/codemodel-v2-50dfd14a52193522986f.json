@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "notyhelper",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "notyhelper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-notyhelper-Debug-4668fff09a6c8159bc29.json",
+					"name" : "notyhelper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "notyhelper_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-notyhelper_autogen-Debug-b73d45aa898cb4823fd9.json",
+					"name" : "notyhelper_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "notyhelper_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-notyhelper_autogen_timestamp_deps-Debug-76211fdcef09e302e0bd.json",
+					"name" : "notyhelper_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server-Debug-4446eb67b9d534a3ee77.json",
+					"name" : "server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_autogen-Debug-7b23574725dfd8cc263f.json",
+					"name" : "server_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_autogen_timestamp_deps-Debug-ad491a3b989ab66e1dac.json",
+					"name" : "server_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/snistor/CLionProjects/notyhelper/cmake-build-debug",
+		"source" : "/Users/snistor/CLionProjects/notyhelper"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

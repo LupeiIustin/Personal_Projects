@@ -1,0 +1,8 @@
+/Users/snistor/CLionProjects/notyhelper/cmake-build-debug/CMakeFiles/notyhelper.dir
+/Users/snistor/CLionProjects/notyhelper/cmake-build-debug/CMakeFiles/server.dir
+/Users/snistor/CLionProjects/notyhelper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/snistor/CLionProjects/notyhelper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/snistor/CLionProjects/notyhelper/cmake-build-debug/CMakeFiles/notyhelper_autogen_timestamp_deps.dir
+/Users/snistor/CLionProjects/notyhelper/cmake-build-debug/CMakeFiles/notyhelper_autogen.dir
+/Users/snistor/CLionProjects/notyhelper/cmake-build-debug/CMakeFiles/server_autogen_timestamp_deps.dir
+/Users/snistor/CLionProjects/notyhelper/cmake-build-debug/CMakeFiles/server_autogen.dir
