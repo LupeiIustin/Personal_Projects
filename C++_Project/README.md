@@ -8,10 +8,12 @@ Concurrent TCP/IP conections(multithreading)
 
 
 Authentication or registration
+
 ![326862728_1225865894977038_7721873800728989050_n](https://user-images.githubusercontent.com/79211949/217246033-6225bd65-1acb-4ecc-a7ed-af21ecc654c6.png)
 
 Setting the alarm (button shared for all users)
 ![326199038_1243693956356590_916687195808617241_n](https://user-images.githubusercontent.com/79211949/217246216-a43b98a4-ca8f-47fb-84a3-d062f902cc1b.png)
 
 Notification shows up
+
 ![325361356_1180481439498221_6647622007035850791_n](https://user-images.githubusercontent.com/79211949/217246294-97b89009-62a3-40a9-ae2b-909fa5d4c069.png)
