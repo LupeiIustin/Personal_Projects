@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608400937 source:c:\users\pavel\onedrive\desktop\iustin\solitarul\solitarul\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<windows.h>
+	<stdlib.h>
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1610521440 source:c:\users\pavel\onedrive\desktop\game\iustin\solitarul\solitarul\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<stdlib.h>
+	<mmsystem.h>
+	<ctime>
+	<stdio.h>
+
+1610521440 source:c:\users\pavel\onedrive\desktop\game\iustin\solitarul\b5_pavelsilviu_iustinlupei\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<stdlib.h>
+	<mmsystem.h>
+	<ctime>
+	<stdio.h>
+
+1610794128 source:c:\users\pavel\onedrive\desktop\game\iustin\solitarul\b5_pavelsilviu_iustinlupei_razboi_in_8\joc\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<stdlib.h>
+	<mmsystem.h>
+	<ctime>
+	<stdio.h>
+
